@@ -1,4 +1,4 @@
-# _**CMS Modul Penjadwalan dan Presensi pada Sistem Informasi Sekolah Menengah Pertama (SMP)**_
+                                                    # _**CMS Modul Penjadwalan dan Presensi pada Sistem Informasi Sekolah Menengah Pertama (SMP)**_
 
 **Eka Suciati**
 
